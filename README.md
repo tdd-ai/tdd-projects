@@ -6,7 +6,7 @@ Proje detaylarini goruntulemek ve takip etmek [issues](/../../issues/) uzerinde 
 
 - Tokenization [#1](/../../issues/1)
 - Morphology package [#2](/../../issues/2)
-- Turkish datasets collection
+- Turkish datasets collection [#3](/../../issues/3)
 - Timeline tool
 - Turkish dictionaries
 - Pretrained language models
